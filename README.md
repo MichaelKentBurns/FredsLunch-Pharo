@@ -1,0 +1,3 @@
+# FredsLunch-Pharo
+
+New repository
